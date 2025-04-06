@@ -15,10 +15,10 @@ Purchase full version here: [Tebex](https://sum00er.tebex.io/package/6652843)
 --isImpound (boolean)
 --SpawnPoint (vector4)
 --parking? (string): The name of garage to be opened, leave blank (nil) if not using seperate garage
-exports['0garage0']:OpenGarageMenu(isImpound, SpawnPoint, parking)
+exports['00_garage']:OpenGarageMenu(isImpound, SpawnPoint, parking, job, vehType)
 
 --parking? (string): The name of garage to be stored, leave blank (nil) if not using seperate garage
-exports['0garage0']:StoreVehicle(parking)
+exports['00_garage']:StoreVehicle(parking, job, vehType)
 ```
 
 ### Installation
