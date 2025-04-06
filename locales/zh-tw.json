@@ -1,0 +1,42 @@
+{
+  "garage": "車庫",
+  "impound": "扣押",
+
+  "EntryPoint": "[E] - 進入停車場。",
+  "GetOutPoint": "[E] - 進入扣押場 (領出費用 $%s)。",
+  "StopPoint": "[E] - 將載具停入停車場。",
+  "not_owning_veh": "無法停入載具！",
+  "veh_released": "成功領出載具。",
+  "veh_stored": "成功停入載具。",
+  "no_veh_Impound": "扣押場裡沒有你的載具。",
+  "veh_block": "無法領出載具，生成點被擋住了。",
+  "pay_Impound_bill": "成功支付了 ~g~$%s~s~ 給扣押場。",
+  "missing_money": "你沒有足夠的現金。",
+  "delete_existing": "已刪除存在的載具。",
+  "cannot_take": "載具仍存在，你無法提取它。",
+  "vehtype_mismatch": "此載具無法停在這裡。",
+
+  "log_retrieve": "提領載具",
+  "log_retrieve_del": "提領載具 (刪除現有載具)",
+  "log_store": "存入載具",
+
+  "allVehicles": "全部載具",
+  "leave": "離開",
+  
+  "search": "搜尋",
+  "searchPlaceholder": "以 名字 / 車牌 搜尋 ...",
+  "listing": "排序方式",
+  "plate": "車牌",
+  "label": "名字",
+  "latest": "最近使用",
+  "noVehicles": "沒有找到載具",
+
+  "retrieveVehicle": "提領載具",
+  "location": "位於",
+  "editTitle": "編輯車輛顯示",
+
+  "setStar": "設為最愛",
+  "displayStar": "顯示最愛",
+
+  "function_na": "感謝你使用 00_garage. 此功能僅適用於付費版本. 請從商店頁面購買 https://sum00er.tebex.io/package/6652843"
+}

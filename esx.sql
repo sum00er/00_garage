@@ -1,0 +1,1 @@
+ALTER TABLE `owed_vehicles` MODIFY `stored` INT(11) NOT NULL DEFAULT 0;

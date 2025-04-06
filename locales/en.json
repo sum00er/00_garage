@@ -1,0 +1,42 @@
+{
+  "garage": "Garage",
+  "impound": "Impound",
+
+  "EntryPoint": "Press [E] to access the car park.",
+  "GetOutPoint": "Press [E] to access the impound. (Fee: $%s)",
+  "StopPoint": "Press [E] to park the vehicle.",
+  "not_owning_veh": "Fail to park the vehicle!",
+  "veh_released": "Successfully retrieved vehicle.",
+  "veh_stored": "Successfully stored vehicle.",
+  "no_veh_Impound": "There is no vehicles in the impound.",
+  "veh_block": "Unable to retrieve vehicle, spawn position is blocked.",
+  "pay_Impound_bill": "Successfully paid $%s to the impound.",
+  "missing_money": "You don't have enough money.",
+  "delete_existing": "Deleted existing vehicle",
+  "cannot_take": "Fail to retrieve vehicle as vehicle still exists.",
+  "vehtype_mismatch": "You cannot store this vehicle in this garage",
+
+  "log_retrieve": "Retrieve vehicle",
+  "log_retrieve_del": "Retrieve vehicle (delete existing vehicle)",
+  "log_store": "Store vehicle",
+
+  "allVehicles": "All Vehicles",
+  "leave": "Close",
+  
+  "search": "Searcg",
+  "searchPlaceholder": "Search by label / plate ...",
+  "listing": "Listing method",
+  "plate": "Plate",
+  "label": "Label",
+  "latest": "Latest used",
+  "noVehicles": "No vehicles found.",
+
+  "retrieveVehicle": "Retrieve vehicle",
+  "location": "Located at",
+  "editTitle": "Edit vehicle info",
+
+  "setStar": "Set as favorite",
+  "displayStar": "Display favorite",
+  
+  "function_na": "Thank you for using 00_garage. This feature is only available in paid version. Please purchase from https://sum00er.tebex.io/package/6652843"
+}
