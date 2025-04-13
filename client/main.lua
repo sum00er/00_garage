@@ -184,7 +184,7 @@ RegisterNUICallback('spawnVehicle', function(d, cb)
                     SetVehicleBodyHealth(vehicle, Config.impoundState.bodyHealth)
                     SetVehicleEngineHealth(vehicle, Config.impoundState.engineHealth)
                 else
-                    Entity(vehicle).state.fuel = Config.impoundState.fuel   --for ox_fuel
+                    Entity(vehicle).state.fuel = veh_property.fuelLevel   --for ox_fuel
 
                     --or, use the following to use export of use other resource
                     -- exports[FuelResource]:SetFuel(vehicle, veh_property.fuelLevel)
